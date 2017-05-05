@@ -1,0 +1,27 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+It allowed me to perform a side by side comparison to quickly spot the differences between the two versions. In this way I was able to view only the things that had changed and quickly spot the error.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+It would allow you to see the evolution of the file and track noteworthy changes. If you make changes, either major or minor, that result in a suboptimal file then you will be able to quickly revert to a previous more efficient version of the file.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+The biggest con that I already see myself running into is that I won't save often enough. It is easy to get wrapped up in coding and forget to save important individual changes. That is a benefit of automatic saving. On the flip side, saving manually ensures that each changes is a meaningful one. That way, we can better keep track of the history of the file and understand what happened with each iteration.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+I think the biggest reasont hat this is the case is solely because the different version control systems have varying applications. Google Docs was not created with software developers in mind and therefore does not contain features pertinent to that application.
+
+How can you use the commands git log and git diff to view the history of files?
+
+You can use git log to view all of the commits in a repository as well as who made the changes and when. You can use git diff in order to view which lines of code we altered between each commit.
+
+How might using version control make you more confident to make changes that could break something?
+
+When using a version control system effectively, I know that no change I make is truely permanent. That empowers me to make bolder changes to my code while always being able to safely revert to a more stable version.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I'm working on the Android Nanodegrees through Udacity as well. I would like to use Git to better manage my code and more efficiently make changes. I would also like to use Git as a safety net in case I make any serious errors that I can't quickly come back from.
